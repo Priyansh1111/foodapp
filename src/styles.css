@@ -1,0 +1,16 @@
+/* Import your font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+body { /* Target the document body */
+  font-size: 16px;
+  margin: 0;
+}
+
+html,
+button {
+  margin: 0; /* Target only html and button elements */
+}
+
+a {
+  text-decoration: none;
+}
